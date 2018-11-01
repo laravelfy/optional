@@ -1,6 +1,8 @@
 # Laravelfy Optional
 
 一个由 laravel optional 启发的扩展
+---
+[![travis-ci.svg](https://img.shields.io/travis/laravelfy/optional/master.svg?style=flat-square)](https://travis-ci.org/laravelfy/optional)
 
 ## 使用
 
